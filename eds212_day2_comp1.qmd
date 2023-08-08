@@ -34,3 +34,7 @@ f <- eval(dg_dz)
 ```
 
 Making a change in the doc!
+
+```{r}
+d = 4
+```
